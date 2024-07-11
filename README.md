@@ -7,6 +7,21 @@
 
 - 📫 How to reach me **melthesalesforcebewithyou@gmail.com**
 
+# ☁ Salesforce Credentials
+
+<table width="100%" style="border:0px;">
+  <tr style="border:0px;" >
+    <td align="center" style="border:0px;">
+        <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" alt="Apex" style="width: 100px;"/>
+        <br>
+        <b>Associate</b>
+    </td>
+    <td align="center" style="border:0px;"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Business%20Analyst.png" alt="Integrations" style="width: 100px;"/><br><b>Business Analyst</b></td>
+    <td align="center" style="border:0px;"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="LWC" style="width: 100px;"/><br><b>Administrator</b></td>
+    <td align="center" style="border:0px;"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" alt="SFDX" style="width: 100px;"/><br><b>Platform App Builder</b></td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/villanuevamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="villanuevamel" height="30" width="40" /></a>
