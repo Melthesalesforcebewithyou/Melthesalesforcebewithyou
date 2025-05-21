@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 
-<p><em>Senior Salesforce Administrator at <a href="http://www.unb.br">G6 Hospitality </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Salesforce Developer Student at <a href="https://www.thoughtworks.com">CloudCodeAcademy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Implementation Specialist at <a href="http://www.unb.br">Wellspring Worldwide </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Salesforce Developer Student at <a href="https://www.thoughtworks.com">CloudCodeAcademy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🔭 I’m currently working on **enhancing my SF development skills**
